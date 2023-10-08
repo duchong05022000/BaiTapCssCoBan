@@ -1,0 +1,15 @@
+ol{
+    background-color: fuchsia;
+    padding: 30px;
+}
+ol li{
+    background-color:azure;
+}
+
+ul{
+    background-color: aqua;
+    padding: 30px;
+}
+ul li:nth-child(1) {
+    background-color:azure;
+}

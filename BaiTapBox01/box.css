@@ -1,0 +1,12 @@
+.box_model{
+    width: 20rem;
+    border: 20px solid green;
+    padding: 30px 50px;
+   
+}
+  p{
+    text-align: center;
+    background-color: lightgray;
+    padding: 15px;
+    font-size: 50px;
+}
